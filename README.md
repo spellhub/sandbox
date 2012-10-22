@@ -1,4 +1,4 @@
 sandbox
 =======
 
-Incorrect code bekomes correct.
+Incorrect code becomes correct.
